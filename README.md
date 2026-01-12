@@ -1,2 +1,2 @@
-# Altium-Designer-
+# Altium Designer
 My Layout Learning Journey
